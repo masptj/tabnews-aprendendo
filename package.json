@@ -1,0 +1,16 @@
+{
+  "name": "tabnews-aprendendo",
+  "version": "1.0.0",
+  "description": "Estou acompanhando o curso.dev do  Filipe Deschamps onde implementa um clone do site de notícias tabnews.com.br",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "Marcelino Soares",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
